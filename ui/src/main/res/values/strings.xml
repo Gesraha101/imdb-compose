@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="header_title">IMDB</string>
+    <string name="released_at">Released at %s</string>
+</resources>
